@@ -10,5 +10,6 @@ public class Program {
         String binstr = Integer.toBinaryString(x);
 
         System.out.println("O numero " + x + " em binario é: " + binstr);
+        
     }
 }
